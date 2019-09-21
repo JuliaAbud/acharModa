@@ -1,0 +1,6 @@
+D:\Usuários\1018998\source\repos\moda\moda\bin\Debug\moda.exe.config
+D:\Usuários\1018998\source\repos\moda\moda\bin\Debug\moda.exe
+D:\Usuários\1018998\source\repos\moda\moda\bin\Debug\moda.pdb
+D:\Usuários\1018998\source\repos\moda\moda\obj\Debug\moda.csproj.CoreCompileInputs.cache
+D:\Usuários\1018998\source\repos\moda\moda\obj\Debug\moda.exe
+D:\Usuários\1018998\source\repos\moda\moda\obj\Debug\moda.pdb
